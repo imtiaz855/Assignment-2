@@ -109,7 +109,7 @@ section {
 
 .main-nav ul {
     display: flex;
-    gap: 30px;
+    gap: 40px;
 }
 
 .main-nav a {
